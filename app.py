@@ -7,7 +7,7 @@ import joblib
 app = Flask(__name__)
 
 # Load the model
-model = joblib.load('tomato_leaf_model.pkl')  # Replace with your actual model file path
+model = joblib.load('tomato_model.pkl')  # Replace with your actual model file path
 
 # Define class labels
 class_labels = {

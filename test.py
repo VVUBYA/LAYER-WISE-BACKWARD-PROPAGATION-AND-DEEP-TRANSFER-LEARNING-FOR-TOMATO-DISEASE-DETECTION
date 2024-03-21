@@ -5,7 +5,7 @@ import base64
 url = 'http://127.0.0.1:5000/predict'
 
 # Load the image
-with open('path/to/your/image.jpg', 'rb') as file:
+with open('', 'rb') as file:
     image_data = base64.b64encode(file.read()).decode('utf-8')
 
 # Sample JSON data with the base64 encoded image
