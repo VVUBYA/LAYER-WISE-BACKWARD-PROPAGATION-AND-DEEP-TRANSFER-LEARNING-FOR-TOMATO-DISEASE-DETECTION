@@ -5,3 +5,4 @@ flask
 numpy
 requests
 Pillow
+joblib
