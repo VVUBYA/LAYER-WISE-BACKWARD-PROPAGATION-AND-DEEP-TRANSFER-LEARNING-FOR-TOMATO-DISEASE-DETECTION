@@ -6,4 +6,4 @@ numpy
 requests
 Pillow
 joblib
-keras==2.13
+keras
